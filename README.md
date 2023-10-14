@@ -55,11 +55,16 @@
     </tr>
 </table>
 
+<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="450" height="280" />
+
 # 💫 About Me
 
 - 🔭 I’m a Senior Full Stack Software Engineer.
 - 👍 I have rich experience of web development.
 - 🌱 I’m currently diving into Blockchain & Artificial Intelligence & Machine Learning.
+- ⚙️ Loves to learn & share with the community 🐬
+- 💬 Ask me about anything, will we happy to help 👦🏻
+- 🤗 Love to make new connections 👫
 
 # 💻 My favorite tools and technologies
 
