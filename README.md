@@ -56,7 +56,7 @@
     </tr>
 </table>
 
-<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="450" height="280" />
+<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="450" height="260" />
 
 # 💫 About Me
 
