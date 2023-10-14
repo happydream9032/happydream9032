@@ -1,4 +1,5 @@
 <p align="center">
+
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&theme=onedark" alt="mjtechworks" /></a> </p>
 </p>
 
@@ -196,4 +197,11 @@
 ### Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+### Contact me anytime
+<a href="https://discord.gg/blackhorse7709"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://t.me/realdd521"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
+<a href="https://join.skype.com/invite/live:.cid.ce8d32dee71871e5"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
+<a href="mailto:happydream9032@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
+<h5 color="red">Click anything for contact me (^_~)</h5>
+
+![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;Web,Desktop%20Application%20Developer;✨AI,ML%20Engineer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
