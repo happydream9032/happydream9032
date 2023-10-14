@@ -19,26 +19,26 @@
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
+        <td><img src="https://user-images.githubusercontent.com/86986628/186042940-666ff3ee-03b6-4ca3-b3a6-8639e84dc642.png" title="Next.js" width="100" alt="Next.js"></td>
+        <td><img src="https://user-images.githubusercontent.com/86986628/186025927-e6b4668e-5df8-4163-b8d4-25e70cab15b4.svg" title="Nuxt.js" width="100" alt="Nuxt.js"></td>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
         <td><img src="https://img.icons8.com/color/2x/php.png" title="PHP" width="100" alt="PHP"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB"></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
         <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="100" alt="Linux"></td>
         <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
         <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
         <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
+        <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="Serverless" width="100" alt="Flutter"></td>
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
     </tr>
 
@@ -47,11 +47,11 @@
         <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="Scikit-learn" width="100" alt="Git"></td>
         <td><img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/09/terminal-icon.png" title="Bash" width="100" alt="Redux"></td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" title="Keras" width="100" alt="Linux"></td>
+        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg" title="protractor" width="100" alt="Solidity"></td>
-        <td><img src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" title="Git" width="100" alt="Docker"></td>
-        <td><img src="https://user-images.githubusercontent.com/86986628/186612155-d7d06a1d-ddc9-4049-81cf-50ebad958c7b.svg" title="GitLab" width="100" alt="Dart"></td>
-        <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="Serverless" width="100" alt="Flutter"></td>
-        <td><img src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" title="Firebase" width="100" alt="GitLab"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
+        <td><img src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" title="Gitlab" width="100" alt="Gitlab"></td>
+        <td><img src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" title="Firebase" width="100" alt="Firebase"></td>
         <td><img src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" title="VS" width="100" alt="Amazon Web Service"></td>
     </tr>
 </table>
