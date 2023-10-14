@@ -48,7 +48,7 @@
         <td><img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/09/terminal-icon.png" title="Bash" width="100" alt="Redux"></td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" title="Keras" width="100" alt="Linux"></td>
         <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg" title="protractor" width="100" alt="Solidity"></td>
+        <td><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="100" alt="FastAPI"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" title="Gitlab" width="100" alt="Gitlab"></td>
         <td><img src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" title="Firebase" width="100" alt="Firebase"></td>
@@ -170,8 +170,8 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aws" />
+      <br>AWS
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
