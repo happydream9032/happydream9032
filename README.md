@@ -62,7 +62,7 @@
 
 - 🔭 I’m a Senior Full Stack Software Engineer.
 - 👍 I have rich experience of web development.
-- 🌱 I’m currently diving into Blockchain & Artificial Intelligence & Machine Learning.
+- 🌱 I’m currently diving into Artificial Intelligence & Machine Learning.
 - ⚙️ Loves to learn & share with the community 🐬
 - 💬 Ask me about anything, will we happy to help 👦🏻
 - 🤗 Love to make new connections 👫
