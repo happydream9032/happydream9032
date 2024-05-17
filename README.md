@@ -202,7 +202,6 @@
 <a href="https://t.me/happyninjadev"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 <a href="https://join.skype.com/invite/live:.cid.ce8d32dee71871e5"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
 <a href="mailto:happydream9032@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
-<a href="+12694965517"><img width="60" src="https://web.whatsapp.com/favicon-64x64.ico"></a>
 <h5 color="red">Click anything for contact me (^_~)</h5>
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;Web,Desktop%20Application%20Developer;✨AI,ML%20Engineer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
