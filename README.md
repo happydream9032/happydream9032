@@ -194,6 +194,10 @@
 ### Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
+## 🚩Contribution
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydream9032/happydream9032/output/github-contribution-grid-snake-dark.svg)
+
 ### Contact me anytime
 <a href="https://discord.gg/topdeveloper0302_"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/happyninjadev"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
