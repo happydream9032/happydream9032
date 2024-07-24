@@ -1,8 +1,5 @@
 <p align="center">
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&theme=onedark" alt="mjtechworks" /></a> </p>
-</p>
-
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
