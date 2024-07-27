@@ -187,12 +187,12 @@
 <br>
 
 ### Most Used Langauges
-![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=happydream9032&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
+![Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=happydream9032&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smurf-Azrael&theme=react&line_height=40&hide=css) -->
 
 ### Github Status
-![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+![My Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=happydream9032&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ### Contact me anytime
 <a href="https://discord.gg/topdeveloper0302_"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
